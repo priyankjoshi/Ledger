@@ -19,4 +19,9 @@ This will be a web based application developed using Java as the Backend Technol
 3. Generate Bills.
 4. Submit the tax to the government.
 
+#Contributor
+1. Priyank Joshi
+2. Prakash Chandra
+
+
 
